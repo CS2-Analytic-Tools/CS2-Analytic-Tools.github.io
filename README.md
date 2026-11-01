@@ -23,6 +23,7 @@ A collection of advanced performance analysis and telemetry tools for Counter-St
 - [Neverlose Tool](https://cs2-analytic-tools.github.io/neverlose/)
 - [Nixware Tool](https://cs2-analytic-tools.github.io/nixware/)
 - [MemeSense Tool](https://cs2-analytic-tools.github.io/memesense/)
+- [iNIURIA Tool](https://cs2-analytic-tools.github.io/iniuria/)
 
 ---
 
