@@ -1,39 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
     <url>
-        <loc>https://cs2-analytic-tools.github.io/</loc>
-        <lastmod>2026-11-01</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
+        <loc>https://roblox-runtime-reference.github.io/</loc>
     </url>
-
     <url>
-        <loc>https://cs2-analytic-tools.github.io/neverlose/</loc>
-        <lastmod>2026-11-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://roblox-runtime-reference.github.io/real/</loc>
     </url>
-
     <url>
-        <loc>https://cs2-analytic-tools.github.io/nixware/</loc>
-        <lastmod>2026-11-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://roblox-runtime-reference.github.io/cosmic/</loc>
     </url>
-
     <url>
-        <loc>https://cs2-analytic-tools.github.io/memesense/</loc>
-        <lastmod>2026-11-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://roblox-runtime-reference.github.io/swift/</loc>
     </url>
-
     <url>
-        <loc>https://cs2-analytic-tools.github.io/iniuria/</loc>
-        <lastmod>2026-11-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://roblox-runtime-reference.github.io/bytebreaker/</loc>
     </url>
-
+    <url>
+        <loc>https://roblox-runtime-reference.github.io/ronin/</loc>
+    </url>
+    <url>
+        <loc>https://roblox-runtime-reference.github.io/codex/</loc>
+    </url>
 </urlset>
